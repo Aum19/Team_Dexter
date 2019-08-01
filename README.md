@@ -12,10 +12,10 @@ To test the Arduino using commands on BLE app: https://play.google.com/store/app
 
 **Setup steps:**
 
-1. **1.**** Arduino and sensor hardware connections.**
-2. **2.**** Protocol overview**
-3. **3.**** Commands/Requests**
-4. **4.**** BLE Scanner App steps**
+1. ** Arduino and sensor hardware connections.**
+2. ** Protocol overview**
+3. ** Commands/Requests**
+4. ** BLE Scanner App steps**
 
 # Arduino and sensor hardware connections.
 
