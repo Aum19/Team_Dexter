@@ -143,3 +143,7 @@ Last\_write:        timestamp
 
 
 # BLE Scanner App Steps:
+![A test image](1.jpg) 
+![A test image](2.jpg)
+![A test image](3.jpg)
+![A test image](4.jpg)
